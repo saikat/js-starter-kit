@@ -16,10 +16,10 @@ Create a new Webpack/Redux/React/Express app for Brand New Congress! This starte
 1. Clone this starter kit
 1. Change the git remote to point to your new project's repo with `git remote set-url origin <new-url>`
 1. Change the README, package name in `package.json` and package license in `package.json` (we prefer `AGPL-3.0`).
-1. Run `npm shrinkwrap`.
 1. [Set up an ESLint plugin in your code editor so that you catch coding errors and follow code style guidelines more easily!](https://medium.com/planet-arkency/catch-mistakes-before-you-run-you-javascript-code-6e524c36f0c8#.oboqsse48)
-1. Run `npm install`
-1. Run `npm run dev`
+1. `npm install`
+1. `npm shrinkwrap`
+1. `npm run dev`
 1. Navigate to `http://localhost:3000` to see your app in action.
 1. Start making changes by working in the `src/frontend` and `src/backend` directories.
 1. Anytime you want to add a dependency to your project, you should use `npm install --save <package_name>` to install the dependency and then run `npm shrinkwrap`. [Read about why](https://docs.npmjs.com/cli/shrinkwrap).
