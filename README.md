@@ -22,5 +22,4 @@ Create a new Webpack/Redux/React/Express app for Brand New Congress! This starte
 1. `npm run dev`
 1. Navigate to `http://localhost:3000` to see your app in action.
 1. Start making changes by working in the `src/frontend` and `src/backend` directories.
-1. Anytime you want to add a dependency to your project, you should use `npm install --save <package_name>` to install the dependency and then run `npm shrinkwrap`. [Read about why](https://docs.npmjs.com/cli/shrinkwrap).
 1. Deploy your app to [Heroku](https://heroku.com). Make sure to set the correct environment variables there based on what exists in .env locally!
