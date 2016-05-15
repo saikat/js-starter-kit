@@ -41,7 +41,7 @@
   },
   "scripts": {
     "clean": "rm -rf build && mkdir -p ./build/frontend/assets/js && mkdir -p ./build/backend",
-    "lint": "eslint src",
+    "lint": "eslint --fix src",
     "prod-build-frontend": "webpack --config ./webpack/config.js",
     "prod-build-backend": "babel ./src/backend -d ./build/backend --source-maps",
     "prod-version-assets": "node ./tools/version.js",
