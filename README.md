@@ -1,3 +1,9 @@
+# THIS IS DEPRECATED. USE [REACT-APOLLO-STARTER-KIT](https://github.com/saikat/react-apollo-starter-kit).
+==================================
+
+
+
+
 # Javascript starter kit for Brand New Congress
 Create a new Webpack/Redux/React/Express app for Brand New Congress! This starter kit features:
 * [React](https://facebook.github.io/react/) for frontend development
